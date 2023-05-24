@@ -1,0 +1,7 @@
+{
+    "sentence_embedding_model": "jhgan/ko-sroberta-multitask",
+    "qa_model": "monologg/koelectra-base-v3-finetuned-korquad",
+    "data_path": "chatbot_data",
+    "faq_path": "FAQ_csv",
+    "wiki_path": "text"
+}
